@@ -21,18 +21,18 @@ Macierz Alfa:
 Wektor Beta:
  1.3 1.2 1.45 1.3 1.3
 
-Liczba wykonanych iteracji wynosi 30
+Liczba wykonanych iteracji wynosi 10
 Wektor ostatnio wykonanej iteracji:
-	9.999999e-01
-	1.000000e+00
-	1.000000e+00
-	9.999999e-01
-	9.999999e-01
+	9.999826e-01
+	9.999882e-01
+	9.999786e-01
+	9.999858e-01
+	9.999828e-01
 
 
 Wektor przedostatnio wykonanej iteracji:
-	1.000000e+00
-	1.000000e+00
-	1.000000e+00
-	1.000000e+00
-	1.000000e+00
+	1.000051e+00
+	1.000035e+00
+	1.000064e+00
+	1.000042e+00
+	1.000051e+00
