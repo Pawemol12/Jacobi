@@ -1,0 +1,38 @@
+Macierz A:
+ 10 2 3 1 4
+ 3 20 7 2 8
+ 15 5 40 9 11
+ 3 0 6 10 1
+ 6 4 5 5 20
+
+Wektor B:
+ 20 40 80 20 40
+
+Epsilon(wartosc przyblizenia) = 0.0001
+MLI(maksymalna liczba iteracji) = 30
+
+Macierz Alfa:
+ 0 -0.2 -0.3 -0.1 -0.4
+ -0.15 0 -0.35 -0.1 -0.4
+ -0.375 -0.125 0 -0.225 -0.275
+ -0.3 -0 -0.6 0 -0.1
+ -0.3 -0.2 -0.25 -0.25 0
+
+Wektor Beta:
+ 2 2 2 2 2
+
+Liczba wykonanych iteracji wynosi 30
+Wektor ostatnio wykonanej iteracji:
+	0.000000e+00
+	0.000000e+00
+	0.000000e+00
+	0.000000e+00
+	0.000000e+00
+
+
+Wektor przedostatnio wykonanej iteracji:
+	2.000000e+00
+	2.000000e+00
+	2.000000e+00
+	2.000000e+00
+	2.000000e+00
